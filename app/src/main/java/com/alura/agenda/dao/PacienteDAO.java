@@ -10,7 +10,7 @@ import com.alura.agenda.model.Paciente;
 
 import java.util.ArrayList;
 import java.util.List;
-
+// Classe de persistencia
 public class PacienteDAO extends SQLiteOpenHelper{
 
     public PacienteDAO(Context context) {
